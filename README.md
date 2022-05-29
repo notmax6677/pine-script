@@ -10,7 +10,7 @@ the language currently features only two object types (strings and numbers) and 
 due to it's small scale and somewhat simple self-documented code, it's pretty easy to modify the syntax, whether changing keys, adding features, or removing some you don't like
 
 ## how to use
-for starters, you would need to have a `.pine` file in your project folder, once you have this module installed, you may use it to run `.pine` scripts
+for starters, you would need to have a `.pine` file in your project folder, idk how to make this a proper module so just download it lol
 
 e.g:
 ```go
@@ -20,4 +20,7 @@ func main() {
   interpreter.RunScript("./script.pine") // run your script
   
   objects := interpreter.ExportObjects() // get objects that were created with your pine script
-}```
+}
+```
+
+ps: i don't really care if it doesn't do anything useful, i just wanted to see if i could make something of this sort
