@@ -1,0 +1,11 @@
+< this is a comment >
+
+< this is pine-script, an open-source markdown script for Go >
+
+var:str:string1:Hello;
+
+var:str:string2:World!;
+
+var:str:string3:The#year#is;
+
+var:num:year:2022;
