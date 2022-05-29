@@ -58,6 +58,6 @@ so
 
 `var:str:car:hello#world`
 
-the value of this variable named car would be `"hello world"`
+the value of this variable named `car` would be `"hello world"`
 
 ps: i don't really care if it doesn't do anything useful, i just wanted to see if i could make something of this sort
